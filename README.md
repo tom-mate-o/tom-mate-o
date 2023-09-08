@@ -1,7 +1,7 @@
-# Hello, I'm Tom and I wanna be the very best! ;)
+##### Hello, I'm Tom and I wanna be the very best! ;)
 ...or die trying...
 
-## About Me
+### About Me
 
 I'm on a thrilling rollercoaster-like journey to become a web developer one day.
 While learning to catch as much of JavaScript, HTML, and CSS in my Poké Balls.
@@ -14,9 +14,7 @@ Positively thrilled and naive about it, like a 10-year-old kid from Pallet Town.
 	  currentGoal: 'My next gym badges: Node and React! 💪🏆',
 	};
 
-
-
-## My Pokémon Team
+#### My Pokémon Team
 |              |                |                                                                                                          |
 |--------------|----------------|----------------------------------------------------------------------------------------------------------|
 | **Pikachu**  | <div><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="150" height=auto></div> | My JavaScript partner in electrifying adventures. Always sparking new ideas with a Thunderbolt of inspiration. We're a dynamic duo, occasionally leaving me pleasantly shocked, but I have trust in our friendship and his boundless coding abilities.  |
@@ -27,12 +25,10 @@ Positively thrilled and naive about it, like a 10-year-old kid from Pallet Town.
 | **Abra**| <div><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png" width="100" height=auto></div>     | My future companion for mastering Node. Hopefully it will evolve into Alakazam one day...                                                                              |
 | **Eevee**    | <div class="pokemon-row"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" width="100" height=auto></div>     | Preparing to evolve into a React powerhouse.                                                                         |
 
-## Pokédex of Projects
-
+#### Pokédex of Projects
 🌟 Here are some of my recent captures: [Open Github-Pokédex](https://github.com/tom-mate-o?tab=repositories)
 
 
-## How You Can Join the Adventure
-
+#### How You Can Join the Adventure
 If you have any Trainer tips or coding strategies, feel free to share them!
 📫 You can reach send a message via carrier Pidgey her on GitHub.
